@@ -1,0 +1,3 @@
+constructor.t.sol
+├─ it should support the IReceiver interface
+└─ it should set the correct typeAndVersion
